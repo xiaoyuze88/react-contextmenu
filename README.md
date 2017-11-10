@@ -10,6 +10,10 @@
 
 ContextMenu in React with accessibility support. Live Examples can be found [here](//vkbansal.github.io/react-contextmenu/)
 
+自定义版本，disable时不劫持任何事件，且正常时只劫持右键点击事件，以兼容多组件套用。
+
+使用方法：下载源文件，然后引入module/ 或 es6/ 目录下编译好文件。
+
 ## Table of contents
 
  - [Installation](#installation)
